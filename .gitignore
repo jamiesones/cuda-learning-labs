@@ -1,0 +1,19 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+
+# CUDA binaries
+vector_add
+cuda_test
+
+# Build directories
+build/
+cmake-build-*/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*~
